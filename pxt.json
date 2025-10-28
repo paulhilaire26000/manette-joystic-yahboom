@@ -2,9 +2,7 @@
     "name": "manette joystic",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
@@ -19,7 +17,7 @@
         "branch": "stable8.0",
         "tag": "v8.0.17",
         "commits": "https://github.com/microsoft/pxt-microbit/commits/9be832107a808812b98a75c4cd82bd7ff577193b",
-        "target": "8.0.17",
+        "target": "8.0.18",
         "pxt": "12.0.16",
         "targetId": "microbit"
     },
